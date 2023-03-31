@@ -1,6 +1,6 @@
 Name:		texlive-euler-math
 Version:	65010
-Release:	1
+Release:	2
 Summary:	OpenType version of Hermann Zapf's Euler maths font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/euler-math
