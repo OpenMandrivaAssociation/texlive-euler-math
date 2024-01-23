@@ -1,5 +1,5 @@
 Name:		texlive-euler-math
-Version:	68991
+Version:	69481
 Release:	1
 Summary:	OpenType version of Hermann Zapf's Euler maths font
 Group:		Publishing
