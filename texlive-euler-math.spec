@@ -3,7 +3,7 @@ Version:	70296
 Release:	1
 Summary:	OpenType version of Hermann Zapf's Euler maths font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/euler-math
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/euler-math
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/euler-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/euler-math.doc.r%{version}.tar.xz
